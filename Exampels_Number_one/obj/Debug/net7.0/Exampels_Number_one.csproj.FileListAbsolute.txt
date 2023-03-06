@@ -1,0 +1,15 @@
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\bin\Debug\net7.0\Exampels_Number_one.exe
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\bin\Debug\net7.0\Exampels_Number_one.deps.json
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\bin\Debug\net7.0\Exampels_Number_one.runtimeconfig.json
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\bin\Debug\net7.0\Exampels_Number_one.dll
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\bin\Debug\net7.0\Exampels_Number_one.pdb
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\obj\Debug\net7.0\Exampels_Number_one.csproj.AssemblyReference.cache
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\obj\Debug\net7.0\Exampels_Number_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\obj\Debug\net7.0\Exampels_Number_one.AssemblyInfoInputs.cache
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\obj\Debug\net7.0\Exampels_Number_one.AssemblyInfo.cs
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\obj\Debug\net7.0\Exampels_Number_one.csproj.CoreCompileInputs.cache
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\obj\Debug\net7.0\Exampels_Number_one.dll
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\obj\Debug\net7.0\refint\Exampels_Number_one.dll
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\obj\Debug\net7.0\Exampels_Number_one.pdb
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\obj\Debug\net7.0\Exampels_Number_one.genruntimeconfig.cache
+C:\Users\Катюха\Documents\NumberOne\Exampels_Number_one\obj\Debug\net7.0\ref\Exampels_Number_one.dll
